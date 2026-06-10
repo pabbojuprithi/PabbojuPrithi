@@ -93,9 +93,6 @@ JNTU — 2019–2023 | 70%
 </p>
 -----
 
-<p align="center">
-  <i>💡 "Data is the new oil — I refine it into insights."</i>
-</p>
 
 <!-- Bottom Wave Banner -->
 <p align="center">
