@@ -63,7 +63,8 @@
 - ✅ Comprehensive problem-solving abilities
 - ✅ Team leadership experience
 ---
-📬 Contact Me
+##📬 Contact Me
+
 📧 Mail:pabbojuprithi@gmail.com
 📍 Hyderabad,Telangana
 ---
