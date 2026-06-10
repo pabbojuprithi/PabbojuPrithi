@@ -1,16 +1,101 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pabboju%20Prithi&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer&descSize=20&descAlignY=75" />
+</p>
 
-<!--
-**pabbojuprithi/PabbojuPrithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎯 **Data Analyst | Python & Web Developer** based in Hyderabad, India
+🚀 Passionate about **AI/ML systems**, **data analytics dashboards**, and **backend development**
+🔭 Currently working on improving **operational analytics** and **AI-driven scheduling systems**
+🧠 I love turning raw data into actionable insights
+💬 Ask me about **Python, SQL, Streamlit, Machine Learning, Data Automation**
+📫 Reach me at **pabbojuprithi@gmail.com** | 📞 +91-7013330270
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+### 🐍 Languages & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚡ Frameworks & Libraries
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🛠️ Tools & Analytics
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![KPI Analysis](https://img.shields.io/badge/KPI%20Analysis-0077B5?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Data Automation](https://img.shields.io/badge/Data%20Automation-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 📌 Data Analyst Apprentice — TGSRTC, Hyderabad
+> 1 Year Full-Time Apprenticeship
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Depot Operations Analytics
+> Built an **AI-powered driver optimization dashboard** using Python, Streamlit, and SQL for driver absenteeism analysis.
+> 🔹 Driver data processing & filtering | 🔹 Streamlit frontend | 🔹 Accurate reporting & analysis
+
+### 🚌 AI-Based Dynamic Bus Scheduling System
+> Developed a **Bus Demand Prediction & Scheduling System** using XGBoost to forecast passenger KMs and optimize scheduling.
+> 🔹 XGBoost forecasting | 🔹 Streamlit monitoring dashboard | 🔹 Real-time KPI tracking across 97 depots | 🔹 Driver Performance Insights Engine
+
+### 🛢️ AI Methods in Oil Industry
+> Academic project applying **neural networks and support vector machines** for geological data interpretation, price forecasting, and flow regime forecasting.
+> 🔹 Python, HTML, CSS | 🔹 Team Leader role | 🔹 AI-driven efficiency optimization
+
+### 🏥 Disease Prediction System
+> Built a **machine learning-based disease prediction system** with a Streamlit interface for real-time predictions.
+> 🔹 ML models | 🔹 Real-time interface | 🔹 User-friendly Streamlit UI
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science Engineering (CSE)**
+JNTU — 2019–2023 | 70%
+
+---
+
+## 🏆 Strengths
+
+- ✅ Positive attitude & quick learner
+- ✅ Comprehensive problem-solving abilities
+- ✅ Team leadership experience
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:pabbojuprithi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "Data is the new oil — I refine it into insights."</i>
+</p>
+
+<!-- Bottom Wave Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=footer" />
+</p>
