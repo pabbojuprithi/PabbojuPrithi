@@ -62,7 +62,10 @@
 - ✅ Positive attitude & quick learner
 - ✅ Comprehensive problem-solving abilities
 - ✅ Team leadership experience
-
+---
+📬 Contact Me
+📧 Mail:pabbojuprithi@gmail.com
+📍 Hyderabad,Telangana
 ---
 <p align="left">
   <a href="mailto:pabbojuprithi@gmail.com" target="_blank">
