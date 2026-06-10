@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pabboju%20Prithi&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pabboju%20Prithi&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer&descSize=20&descAlignY=75AI%20Enthusiastic&descSize=20&descAlignY=75" />
 </p>
 
 ## 👩‍💻 About Me
 
-🎯 **Data Analyst | Python & Web Developer| AI enthuistic** based in Hyderabad, India
+🎯 **Data Analyst | Python & Web Developer| AI Enthusiastic** based in Hyderabad, India
 🚀 Passionate about **AI/ML systems**, **data analytst**, and **backend development**
 🔭 Currently working on improving **operational analytics** and **AI-driven scheduling systems**
 🧠 I love turning raw data into actionable insights
@@ -48,22 +48,13 @@
 
 ## 🚀 Featured Projects
 
-### 📊 Depot Operations Analytics
-> Built an **AI-powered driver optimization dashboard** using Python, Streamlit, and SQL for driver absenteeism analysis.
-> 🔹 Driver data processing & filtering | 🔹 Streamlit frontend | 🔹 Accurate reporting & analysis
+### 📊 Operational Analytics & Productivity Dashboard
+> Developed an end-to-end **FastAPI + Streamlit** dashboard for driver performance, depot productivity, and benchmark variance analysis.
+> 🔹 Real-time KPI tracking | 🔹 Automated reporting | 🔹 Variance analysis engine
 
-### 🚌 AI-Based Dynamic Bus Scheduling System
-> Developed a **Bus Demand Prediction & Scheduling System** using XGBoost to forecast passenger KMs and optimize scheduling.
-> 🔹 XGBoost forecasting | 🔹 Streamlit monitoring dashboard | 🔹 Real-time KPI tracking across 97 depots | 🔹 Driver Performance Insights Engine
-
-### 🛢️ AI Methods in Oil Industry
-> Academic project applying **neural networks and support vector machines** for geological data interpretation, price forecasting, and flow regime forecasting.
-> 🔹 Python, HTML, CSS | 🔹 Team Leader role | 🔹 AI-driven efficiency optimization
-
-### 🏥 Disease Prediction System
-> Built a **machine learning-based disease prediction system** with a Streamlit interface for real-time predictions.
-> 🔹 ML models | 🔹 Real-time interface | 🔹 User-friendly Streamlit UI
-
+### 📈 AI-Based Dynamic Scheduling System
+> Built **predictive analytics models** to support transport scheduling and operational forecasting.
+> 🔹 Data-driven scheduling | 🔹 Forecasting models | 🔹 Operational optimization
 ---
 
 ## 🏆 Strengths
