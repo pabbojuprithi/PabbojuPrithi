@@ -4,11 +4,11 @@
 
 ## 👩‍💻 About Me
 
-🎯 **Data Analyst | Python & Web Developer** based in Hyderabad, India
-🚀 Passionate about **AI/ML systems**, **data analytics dashboards**, and **backend development**
+🎯 **Data Analyst | Python & Web Developer| AI enthuistic** based in Hyderabad, India
+🚀 Passionate about **AI/ML systems**, **data analytst**, and **backend development**
 🔭 Currently working on improving **operational analytics** and **AI-driven scheduling systems**
 🧠 I love turning raw data into actionable insights
-💬 Ask me about **Python, SQL, Streamlit, Machine Learning, Data Automation**
+💬 Ask me about **Python, SQL, Streamlit, Machine Learning**
 📫 Reach me at **pabbojuprithi@gmail.com** | 📞 +91-7013330270
 
 ---
@@ -63,13 +63,6 @@
 ### 🏥 Disease Prediction System
 > Built a **machine learning-based disease prediction system** with a Streamlit interface for real-time predictions.
 > 🔹 ML models | 🔹 Real-time interface | 🔹 User-friendly Streamlit UI
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science Engineering (CSE)**
-JNTU — 2019–2023 | 70%
 
 ---
 
