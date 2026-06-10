@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pabboju%20Prithi&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer&descSize=20&descAlignY=75AI%20Enthusiastic&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pabboju%20Prithi&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20desc=AI%20Enthusiastic%20%7C%20Python%20Developer&descSize=20&descAlignY=75" />
 </p>
 
 ## 👩‍💻 About Me
