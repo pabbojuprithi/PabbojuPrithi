@@ -4,8 +4,8 @@
 
 ## 👩‍💻 About Me
 
-🎯 **Data Analyst | Python & Web Developer| AI Enthusiastic** based in Hyderabad, India
-🚀 Passionate about **AI/ML systems**, **data analytst**, and **backend development**
+🎯 **Data Analyst | Python & Web Developer | AI Enthusiast** based in Hyderabad, India
+🚀 Passionate about **AI/ML systems**, **data analytics**, and **backend development**
 🔭 Currently working on improving **operational analytics** and **AI-driven scheduling systems**
 🧠 I love turning raw data into actionable insights
 💬 Ask me about **Python, SQL, Streamlit, Machine Learning**
@@ -55,6 +55,7 @@
 ### 📈 AI-Based Dynamic Scheduling System
 > Built **predictive analytics models** to support transport scheduling and operational forecasting.
 > 🔹 Data-driven scheduling | 🔹 Forecasting models | 🔹 Operational optimization
+
 ---
 
 ## 🏆 Strengths
@@ -62,12 +63,20 @@
 - ✅ Positive attitude & quick learner
 - ✅ Comprehensive problem-solving abilities
 - ✅ Team leadership experience
----
-##📬 Contact Me
 
-📧 Mail:pabbojuprithi@gmail.com
-📍 Hyderabad,Telangana
 ---
+
+## 📬 Contact Me
+
+| | |
+|---|---|
+| 📧 **Email** | [pabbojuprithi@gmail.com](mailto:pabbojuprithi@gmail.com) |
+| 📍 **Location** | Hyderabad, Telangana |
+
+---
+
+## 🤝 Let's Connect
+
 <p align="left">
   <a href="mailto:pabbojuprithi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -78,6 +87,12 @@
   <a href="https://github.com/pabbojuprithi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "Data is the new oil — I refine it into insights."</i>
 </p>
 
 <!-- Bottom Wave Banner -->
